@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">出租车计费</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- 欢迎界面 -->
+    <string name="ImageView">背景图片</string>
+    <!-- 忘记密码 -->
+    <string name="tv_forget_password_info">请使用注册时输入的手机号，否则将无法修改密码！</string>
+    <!-- 注册 -->
+    <string name="regist_head">注册手机号</string>
+    <string name="tv_register_info">请输入手机号码获取验证码，并填写短信中的验证码进行验证</string>
+    <string name="regist_phone">请输入手机号</string>
+    <string name="regist_verify_code">验证码</string>
+    <string name="regist_get_verify_code">获取验证码</string>
+
+    <!-- 设置密保 -->
+    <string name="security_answer">答案</string>
+
+    <!-- 设置密码 -->
+    <string name="setpassword_head">设置昵称/密码</string>
+    <string name="setpassword_name">昵称</string>
+    <string name="setpassword">密码</string>
+    <string name="setpassword_tv">建议填写你的真实姓名，方便司机或好友联系你。此昵称以后可以随时修改。</string>
+    <string name="setpassword_submit">完成</string>
+
+    <!-- 登录 -->
+    <string name="login_head">出租车计费</string>
+    <string name="login_close">关闭</string>
+    <string name="login_name_phone">昵称/手机号</string>
+    <string name="login_password">请输入密码</string>
+    <string name="login_forget">忘记密码</string>
+    <string name="login_button">登录</string>
+    <string name="login_textview">没有账号？</string>
+
+    <!-- 公用 -->
+    <string name="next_step">下一步</string>
+
+    <!-- 侧滑菜单 -->
+    <string name="username">昵称：</string>
+    <string name="userid">ID：</string>
+
+    <!-- 主界面 -->
+    <string name="button">上车</string>
+    <!-- 好友列表 -->
+    <string name="good_friend_list">好友列表</string>
+
+    <!-- 主页下方导航 -->
+    <string name="jifei">计费|</string>
+    <string name="position">定位</string>
+    <string name="route">路线|</string>
+    <string name="navigate">导航|</string>
+    <string name="myperson">我的|</string>
+
+    <!-- 个人信息 -->
+    <string name="about_head">个人信息</string>
+    <string name="head">头像</string>
+    <string name="basic_info">基本信息</string>
+    <string name="about_name">昵称</string>
+    <string name="about_telephone">手机</string>
+    <string name="about_industry">行业</string>
+    <string name="about_occupation">职业</string>
+    <string name="safety_info">安全问题</string>
+    <string name="safety_password">密码修改</string>
+    <string name="modify_password">点击修改</string>
+    <string name="safety_question">密保问题</string>
+    <string name="modify_question">修改密保</string>
+
+    <!-- 关于个人信息的修改和更新 -->
+    <string name="modify_submit">完成</string>
+    <string name="modify_telephone_info">您当前的手机号为</string>
+    <string name="modify_textview">更改后个人信息不变，下次请使用新号码登录</string>
+    <string name="modify_telephone">更换手机号</string>
+    <string name="modify_question_info">您之前的密保问题如下：</string>
+    <string name="submit_question">确定更改</string>
+
+    <!-- 路线规划 -->
+    <string name="error_network">搜索失败,请检查网络连接！</string>
+    <string name="error_key">key验证无效！</string>
+    <string name="error_other">未知错误，请稍后重试!错误码为</string>
+    <string name="no_result">对不起，没有搜索到相关数据！</string>
+    <!-- 退出当前登录 -->
+    <string name="setting_quit">退出当前账号</string>
+    <!-- 行程导航 -->
+    <string name="app_id">输入您讯飞的appid</string>
+    <string name="preference_default_tts_role">xiaoyan</string>
+    <string name="preference_key_tts_speed">tts_speed</string>
+    <string name="preference_key_tts_volume">tts_volume</string>
+    <string name="preference_key_tts_pitch">tts_pitch</string>
+
+</resources>

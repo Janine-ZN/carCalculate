@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="iv_about_name" type="id"/>
+    <item name="iv_about_head" type="id" />
+    <item name="iv_about_occupation" type="id" />
+    <item name="iv_about_telephone" type="id" />
+    <item name="iv_about_industry" type="id" />
+    <item name="iv_safety_question" type="id" />
+    <item name="iv_safety_password" type="id" />
+</resources>
